@@ -25,7 +25,7 @@ The pipeline processes raw data through the following key stages to ensure data 
    * Developed an ensemble blending approach to optimize final prediction accuracy.
 
 ## 📂 Project Structure
-* `AmesHousing.ipynb` -> Main Jupyter Notebook containing the executable pipeline code.
+* `AmesHousing-ML-Pipeline.ipynb` -> Main Jupyter Notebook containing the executable pipeline code.
 * `data/` -> Directory containing the raw `train.csv` and `test.csv` datasets.
 * `sample_submission.csv` -> Final generated output file matching production requirements.
 
