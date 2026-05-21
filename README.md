@@ -26,7 +26,7 @@ The pipeline processes raw data through the following key stages to ensure data 
 
 ## 📂 Project Structure
 * `AmesHousing-ML-Pipeline.ipynb` -> Main Jupyter Notebook containing the executable pipeline code.
-* `data/` -> Directory containing the raw `train.csv` and `test.csv` datasets.
+* Raw `train.csv` and `test.csv` datasets.
 * `sample_submission.csv` -> Final generated output file matching production requirements.
 
 ## 🚀 How to Run
